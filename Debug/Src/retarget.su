@@ -1,0 +1,9 @@
+retarget.c:27:6:HAL_UART_TxCpltCallback	16	static
+retarget.c:34:6:HAL_UART_RxCpltCallback	16	static
+retarget.c:43:6:RetargetInit	8	static
+retarget.c:52:5:_isatty	8	static
+retarget.c:60:5:_write	8	static
+retarget.c:76:5:_close	8	static
+retarget.c:84:5:_lseek	8	static
+retarget.c:93:5:_read	8	static
+retarget.c:109:5:_fstat	8	static

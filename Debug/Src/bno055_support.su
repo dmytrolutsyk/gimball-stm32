@@ -1,0 +1,7 @@
+bno055_support.c:585:4:BNO055_I2C_bus_write	16	static
+bno055_support.c:632:4:BNO055_I2C_bus_read	24	static
+bno055_support.c:671:6:BNO055_delay_msek	8	static
+bno055_support.c:53:6:HAL_I2C_MasterTxCpltCallback	16	static
+bno055_support.c:60:6:HAL_I2C_MasterRxCpltCallback	16	static
+bno055_support.c:553:4:I2C_routine	0	static
+bno055_support.c:126:5:bno055_data_readout_template	392	static

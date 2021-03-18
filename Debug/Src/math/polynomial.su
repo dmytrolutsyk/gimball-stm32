@@ -1,0 +1,10 @@
+polynomial.c:23:5:rc_poly_print	40	static
+polynomial.c:48:5:rc_poly_conv	48	static
+polynomial.c:69:5:rc_poly_power	88	static
+polynomial.c:114:5:rc_poly_add	56	static
+polynomial.c:142:5:rc_poly_add_inplace	56	static
+polynomial.c:160:5:rc_poly_subtract	56	static
+polynomial.c:188:5:rc_poly_subtract_inplace	56	static
+polynomial.c:206:5:rc_poly_differentiate	80	static
+polynomial.c:251:5:rc_poly_divide	72	static
+polynomial.c:298:5:rc_poly_butter	96	static

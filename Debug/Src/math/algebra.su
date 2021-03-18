@@ -1,0 +1,9 @@
+algebra.c:30:12:__householder_reflection	152	dynamic
+algebra.c:145:5:rc_algebra_qr_decomp	40	static
+algebra.c:174:5:rc_algebra_lup_decomp	128	dynamic
+algebra.c:263:5:rc_algebra_invert_matrix	160	static
+algebra.c:335:5:rc_algebra_invert_matrix_inplace	32	static
+algebra.c:349:5:rc_algebra_lin_system_solve	152	static
+algebra.c:437:6:rc_algebra_set_zero_tolerance	0	static
+algebra.c:442:5:rc_algebra_lin_system_solve_qr	112	static
+algebra.c:491:5:rc_algebra_fit_ellipsoid	104	static

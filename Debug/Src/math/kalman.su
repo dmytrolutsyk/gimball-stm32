@@ -1,0 +1,7 @@
+kalman.c:14:13:rc_kalman_empty	8	static
+kalman.c:115:5:rc_kalman_free	160	static
+kalman.c:21:5:rc_kalman_alloc_lin	24	static
+kalman.c:80:5:rc_kalman_alloc_ekf	24	static
+kalman.c:140:5:rc_kalman_reset	16	static
+kalman.c:159:5:rc_kalman_update_lin	200	static
+kalman.c:250:5:rc_kalman_update_ekf	176	static

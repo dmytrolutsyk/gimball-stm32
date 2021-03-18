@@ -1,0 +1,2 @@
+algebra_common.c:9:8:__vectorized_mult_accumulate	32	static
+algebra_common.c:20:8:__vectorized_square_accumulate	24	static

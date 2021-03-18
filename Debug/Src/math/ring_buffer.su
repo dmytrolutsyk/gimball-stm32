@@ -1,0 +1,7 @@
+ring_buffer.c:30:14:rc_ringbuf_empty	0	static
+ring_buffer.c:37:5:rc_ringbuf_alloc	16	static
+ring_buffer.c:68:5:rc_ringbuf_free	24	static
+ring_buffer.c:81:5:rc_ringbuf_reset	8	static
+ring_buffer.c:99:5:rc_ringbuf_insert	8	static
+ring_buffer.c:121:8:rc_ringbuf_get_value	8	static
+ring_buffer.c:144:8:rc_ringbuf_std_dev	48	static

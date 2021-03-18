@@ -1,0 +1,15 @@
+main.c:462:13:MX_GPIO_Init	56	static
+main.c:429:13:MX_USART2_UART_Init	8	static
+main.c:297:13:MX_I2C1_Init	8	static
+main.c:331:13:MX_TIM2_Init	56	static
+main.c:380:13:MX_TIM3_Init	56	static
+main.c:598:6:StartGuidanceTask	16	static
+main.c:656:6:StartDefaultTask	16	static
+main.c:612:6:StartSensorTask	16	static
+main.c:635:6:StartComTask	112	static
+main.c:252:6:SystemClock_Config	96	static
+main.c:141:5:main	152	static
+main.c:497:9:map	4	static
+main.c:507:6:StartCommandTask	48	static
+main.c:681:6:HAL_TIM_PeriodElapsedCallback	8	static
+main.c:698:6:Error_Handler	0	static

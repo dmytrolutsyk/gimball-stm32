@@ -1,0 +1,4 @@
+other.c:25:7:rc_get_random_float	8	static
+other.c:40:8:rc_get_random_double	16	static
+other.c:49:5:rc_saturate_float	8	static
+other.c:67:5:rc_saturate_double	40	static
